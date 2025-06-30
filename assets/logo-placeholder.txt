@@ -1,0 +1,11 @@
+📝 LOGO PLACEHOLDER
+
+Save the Bolt.new circular logo as "bolt-logo.png" in this folder.
+
+The logo should show:
+🚀 POWERED BY BOLT.NEW - MADE IN BOLT.NEW 🚀
+
+Recommended format: PNG
+Recommended size: 150x150px or larger
+
+Once added, delete this placeholder file. 
