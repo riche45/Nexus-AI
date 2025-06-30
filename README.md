@@ -1,9 +1,11 @@
 # 🚀 Nexus AI - From Information to Execution
 
 <div align="center">
-  <img src="./assets/bolt-logo.png" alt="Powered by Bolt.new" width="150" height="150">
+  <a href="https://bolt.new" target="_blank">
+    <img src="./assets/bolt-logo.png" alt="Powered by Bolt.new" width="150" height="150">
+  </a>
   <br>
-  <em>🚀 Powered by Bolt.new - Made in Bolt.new 🚀</em>
+  <em>🚀 <a href="https://bolt.new" target="_blank">Powered by Bolt.new</a> - Made in Bolt.new 🚀</em>
 </div>
 
 **Demo for Bolt.new Hackathon 2025**
