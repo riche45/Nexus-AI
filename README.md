@@ -72,10 +72,30 @@ npm run build
 
 ## 🎮 Live Demo
 
-The application includes:
+### 📸 Application Gallery
 
-1. **Landing Page**: Platform presentation
-2. **Onboarding**: Initial setup process
+<div align="center">
+
+| 🚀 **Landing Page** | 🎯 **Onboarding Flow** |
+|:---:|:---:|
+| [![Landing Page](./screenshots/landing.png)](./screenshots/landing.png) | [![Onboarding](./screenshots/onboarding.png)](./screenshots/onboarding.png) |
+| *Revolutionary AI execution platform with smooth animations and compelling value proposition* | *Intuitive setup process that simulates bank connection and data analysis* |
+
+| 📊 **Interactive Dashboard** | 🤖 **AI Execution in Action** |
+|:---:|:---:|
+| [![Dashboard](./screenshots/dashboard.png)](./screenshots/dashboard.png) | [![AI Execution](./screenshots/ai-execution.png)](./screenshots/ai-execution.png) |
+| *Real-time subscription analysis with AI-powered optimization recommendations* | *Live demonstration of AIDE agent executing real optimizations* |
+
+</div>
+
+> **💡 Click on any image to view in full size**
+
+---
+
+### 🔧 Application Features:
+
+1. **Landing Page**: Platform presentation with smooth animations
+2. **Onboarding**: Initial setup process with bank simulation
 3. **Dashboard**: Control panel with:
    - Subscription analysis
    - Automatic optimizations
