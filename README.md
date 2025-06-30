@@ -179,8 +179,8 @@ MIT License - see LICENSE file for details
 ## 📧 Contact
 
 **Nexus AI Team**
-- Demo: [Live demo link]
-- Repository: [Link to this repo]
+- Demo: Visit youtube
+- Repository: https://github.com/riche45/Nexus-AI
 
 ---
 
